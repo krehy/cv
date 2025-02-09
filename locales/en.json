@@ -1,0 +1,82 @@
+{
+    "navbar": {
+      "experience": "Experience",
+      "projects": "Projects",
+      "skills": "Skills",
+      "contact": "Contact"
+    },
+    "home": {
+      "intro": "Hi, I'm Samuel and I'm a",
+      "developer": "developer",
+      "subtitle": "I specialize in Next.js, Tailwind CSS, and AI automation. Check out my experience, projects, and skills.",
+      "experienceDescription": "What I’ve done and where I’ve worked.",
+      "projectsDescription": "What I’ve worked on.",
+      "skillsDescription": "What I have experience with.",
+      "contactButton": "Contact me"
+    },
+    "experience": {
+      "title": "Work Experience",
+      "subtitle": "My professional career and work experience."
+    },
+    "projects": {
+      "title": "My Projects",
+      "subtitle": "A list of projects I have worked on.",
+      "viewMore": "View More",
+      "memeGenerator": "AI Meme Generator",
+      "acquisitionApp": "Mobile Acquisition App",
+      "cmsSystem": "CMS System",
+      "socialAutomation": "Social Media Automation",
+      "businessDashboard": "Business Dashboard",
+      "superparmeni": "Superparmeni Website",
+      "descriptions": {
+        "memeGenerator": "AI-generated meme creation based on current trends.",
+        "acquisitionApp": "A mobile application for efficient client acquisition and management. (My personal assistant for my sales role at Snomi – but before I could finish it, the collaboration ended 😒).",
+        "cmsSystem": "A content management system for publishing and managing articles. (Before I discovered simpler and more efficient alternatives like Wagtail).",
+        "socialAutomation": "Automation of social media content posting. (Using Make.com, integrated with the AI Meme Generator).",
+        "businessDashboard": "A dashboard for analyzing business data and statistics. (A web-based dashboard for my mobile acquisition app).",
+        "superparmeni": "Superpařmeni gaming magazine, featuring reviews and the latest gaming news."
+            }
+    },
+    "skills": {
+      "title": "Skills",
+      "subtitle": "Technologies and tools I use.",
+      "nextjsReact": "Next.js & React",
+      "tailwindHeroUI": "Tailwind CSS",
+      "aiAutomation": "AI & Automation",
+      "postgresql": "PostgreSQL",
+      "linuxSSH": "Linux & SSH",
+      "docker": "Docker",
+      "githubActions": "GitHub & GitHub Actions",
+      "seo": "SEO",
+      "nodeExpress": "Node.js & Express"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "If you want to work with me, send me a message.",
+      "name": "Name",
+      "namePlaceholder": "Enter your name...",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email...",
+      "message": "Message",
+      "messagePlaceholder": "Write your message...",
+      "send": "Send",
+      "sent": "Message sent! ❤️",
+      "success": "Message sent successfully!",
+      "error": "Error sending message. Please try again."
+    },
+    "footer": {
+"aboutTitle": "About Me",
+"aboutText": "I am a self-taught developer with strong practical experience, especially in Next.js. In my free time, I play the guitar, keyboard, and create beats, or immerse myself in gaming. I am looking for opportunities to apply my hard-earned skills.",
+"contactTitle": "Contact",
+"downloadCV": "Traditional Resume",
+"viewCertificate": "Skillmea Certificate",
+"followMe": "Follow Me",
+"cvWarningTitle": "Before downloading CV",
+"cvWarningText": "Warning: This resume should be taken with a grain of salt. Enjoy the humor! 😄",
+"cancel": "Cancel",
+"confirmDownload": "Download CV"
+
+      }
+
+  }
+  

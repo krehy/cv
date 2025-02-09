@@ -1,0 +1,82 @@
+{
+    "navbar": {
+      "experience": "Zkušenosti",
+      "projects": "Projekty",
+      "skills": "Dovednosti",
+      "contact": "Kontakt"
+    },
+    "home": {
+      "intro": "Ahoj, já jsem Samuel a jsem",
+      "developer": "vývojář",
+      "subtitle": "Specializuji se na Next.js, Tailwind CSS a automatizaci pomocí AI. Podívej se na mé zkušenosti, projekty a dovednosti.",
+      "experienceDescription": "Co jsem dělal a kde jsem pracoval.",
+      "projectsDescription": "Na čem jsem pracoval.",
+      "skillsDescription": "S čím mám zkušenosti.",
+      "contactButton": "Kontaktovat"
+    },
+    "experience": {
+      "title": "Pracovní zkušenosti",
+      "subtitle": "Moje profesní kariéra a pracovní zkušenosti."
+    },
+    "projects": {
+      "title": "Moje projekty",
+      "subtitle": "Seznam projektů, na kterých jsem pracoval.",
+      "viewMore": "Zobrazit více",
+      "memeGenerator": "AI generátor memů",
+      "acquisitionApp": "Mobilní aplikace pro akvizice",
+      "cmsSystem": "Redakční systém",
+      "socialAutomation": "Automatizace obsahu na sociálních sítích",
+      "businessDashboard": "Obchodní dashboard",
+      "superparmeni": "Herní magazín Superpařmeni",  
+      "descriptions": {
+        "memeGenerator": "Vytváření AI generovaných memů automaticky podle trendů.",
+        "acquisitionApp": "Mobilní aplikace pro efektivní správu akvizic a klientů. (Můj osobní pomocníček při výkonu obchodní pozice ve Snomi - než jsem ho ale stihl dokončit, tak spolupráce skončila 😒).",
+        "cmsSystem": "Redakční systém pro správu obsahu a publikování článků. (Než jsem objevil jednodušší a výkonější alternativy jako například Wagtail).",
+        "socialAutomation": "Automatizace postování obsahu na sociálních sítích. (Pomocí Make.com, spojeno s AI Generátorem memů).",
+        "businessDashboard": "Dashboard pro analýzu podnikových dat a statistik. (Webový dashboard pro mou mobilní aplikaci pro akvizice).",
+        "superparmeni": "Herní magazín Superpařmeni, kde najdeš recenze a novinky ze světa her."
+      }
+    },
+    "skills": {
+      "title": "Dovednosti",
+      "subtitle": "Technologie a nástroje, které ovládám.",
+      "nextjsReact": "Next.js & React",
+      "tailwindHeroUI": "Tailwind CSS",
+      "aiAutomation": "AI & Automatizace",
+      "postgresql": "PostgreSQL",
+      "linuxSSH": "Linux & SSH",
+      "docker": "Docker",
+      "githubActions": "GitHub & GitHub Actions",
+      "seo": "SEO",
+      "nodeExpress": "Node.js & Express"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "subtitle": "Pokud se mnou chceš spolupracovat, napiš mi zprávu.",
+      "name": "Jméno",
+      "namePlaceholder": "Zadej své jméno...",
+      "email": "E-mail",
+      "emailPlaceholder": "Zadej svůj e-mail...",
+      "message": "Zpráva",
+      "messagePlaceholder": "Napiš svou zprávu...",
+      "send": "Odeslat",
+      "sent": "Zpráva byla odeslána! ❤️",
+      "success": "Zpráva byla úspěšně odeslána!",
+      "error": "Chyba při odesílání. Zkus to znovu."
+    }
+    ,"footer": {
+        "aboutTitle": "O mně",
+        "aboutText": "Jsem self-taught vývojář s praktickými zkušenostmi zejména v Next.js, ve volném čase hraju na kytaru, klávesy a tvořím beaty nebo hraju hry. Hledám uplatnění svých tvrdě získaných zkušeností.",
+        "contactTitle": "Kontakt",
+        "downloadCV": "Klasický životopis",
+        "viewCertificate": "Skillmea certifikát",
+        "followMe": "Sleduj mě",
+"cvWarningTitle": "Před stažením CV",
+"cvWarningText": "Upozornění: Tento životopis je třeba brát s nadsázkou. Ber to s humorem! 😄",
+"cancel": "Zrušit",
+"confirmDownload": "Stáhnout CV"
+
+      }
+
+  }
+  
