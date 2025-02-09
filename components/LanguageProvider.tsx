@@ -17,7 +17,7 @@ const LanguageContext = createContext({
 export const useLanguage = () => useContext(LanguageContext);
 
 export const LanguageProvider = ({ children }: { children: ReactNode }) => {
-  const [locale, setLocaleState] = useState<LocaleType>("en");
+  const [locale, setLocaleState] = useState<LocaleType>("cs");
 
   // Načti jazyk z localStorage při prvním renderu
   useEffect(() => {

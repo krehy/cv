@@ -16,9 +16,25 @@
     },
     "experience": {
       "title": "Pracovní zkušenosti",
-      "subtitle": "Moje profesní kariéra a pracovní zkušenosti."
-    },
-    "projects": {
+      "subtitle": "Moje profesní kariéra a pracovní zkušenosti.",
+      "companies": {
+        "fastcr": "Fast ČR",
+        "starnet": "Starnet",
+        "spacecom": "Spacecom",
+        "smarty": "Smarty",
+        "snomi": "Snomi",
+        "freelancer": "Freelancer"
+      },
+      "positions": {
+        "fastcr": "Prodejce",
+        "starnet": "Technik IT",
+        "spacecom": "Technik IT",
+        "smarty": "Product Manager",
+        "snomi": "Obchodní zastoupení pro O2",
+        "freelancer": "Webové aplikace"
+      }
+    }
+,      "projects": {
       "title": "Moje projekty",
       "subtitle": "Seznam projektů, na kterých jsem pracoval.",
       "viewMore": "Zobrazit více",
@@ -72,7 +88,7 @@
         "viewCertificate": "Skillmea certifikát",
         "followMe": "Sleduj mě",
 "cvWarningTitle": "Před stažením CV",
-"cvWarningText": "Upozornění: Tento životopis je třeba brát s nadsázkou. Ber to s humorem! 😄",
+"cvWarningText": "Upozornění: Tento životopis je zastaralý a je třeba ho brát s nadsázkou. Ber to s humorem! 😄",
 "cancel": "Zrušit",
 "confirmDownload": "Stáhnout CV"
 

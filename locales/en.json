@@ -16,9 +16,25 @@
     },
     "experience": {
       "title": "Work Experience",
-      "subtitle": "My professional career and work experience."
+      "subtitle": "My professional career and work experience.",
+      "companies": {
+        "fastcr": "Fast CR",
+        "starnet": "Starnet",
+        "spacecom": "Spacecom",
+        "smarty": "Smarty",
+        "snomi": "Snomi",
+        "freelancer": "Freelancer"
+      },
+      "positions": {
+        "fastcr": "Salesperson",
+        "starnet": "IT Technician",
+        "spacecom": "IT Technician",
+        "smarty": "Product Manager",
+        "snomi": "O2 Sales Representative",
+        "freelancer": "Web Applications Developer"
+      }
     },
-    "projects": {
+      "projects": {
       "title": "My Projects",
       "subtitle": "A list of projects I have worked on.",
       "viewMore": "View More",
